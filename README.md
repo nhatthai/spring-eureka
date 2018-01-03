@@ -1,4 +1,4 @@
-# Srping Eureka Example
+# Spring Eureka Example
     Eureka server
     Eureka client(Student Service)
 
@@ -22,4 +22,4 @@ Eureka server: http://localhost:8761/
 Applications: http://localhost:8080/applications
 
 ### Reference
-[Service Discovery: Eureka Server Example] (https://memorynotfound.com/spring-cloud-eureka-service-discovery-client-server-example/)
+[Service Discovery: Eureka Server Example](https://memorynotfound.com/spring-cloud-eureka-service-discovery-client-server-example/)
