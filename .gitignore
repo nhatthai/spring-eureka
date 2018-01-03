@@ -1,0 +1,9 @@
+.settings
+.project
+
+# MongoDB
+data/db
+
+# Maven
+target/
+eureka-client/target
