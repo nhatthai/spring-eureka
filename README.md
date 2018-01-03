@@ -18,4 +18,8 @@ mvn spring-boot:run
 
 ### Output
 Eureka server: http://localhost:8761/
+
 Applications: http://localhost:8080/applications
+
+### Reference
+[Service Discovery: Eureka Server Example] (https://memorynotfound.com/spring-cloud-eureka-service-discovery-client-server-example/)
